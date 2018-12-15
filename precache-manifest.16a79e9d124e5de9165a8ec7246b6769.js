@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0919ec36324833977d47",
-    "url": "/coco-ssd-tfjs/static/css/main.bbdec40d.chunk.css"
+    "revision": "64acf8b6f3964d9acdfa",
+    "url": "/coco-ssd-tfjs/static/css/main.526308c2.chunk.css"
   },
   {
-    "revision": "0919ec36324833977d47",
-    "url": "/coco-ssd-tfjs/static/js/main.0919ec36.chunk.js"
+    "revision": "64acf8b6f3964d9acdfa",
+    "url": "/coco-ssd-tfjs/static/js/main.64acf8b6.chunk.js"
   },
   {
     "revision": "c9bd6f76e83f3d5dcec3",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/coco-ssd-tfjs/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "f56a269224c2c51aeb9fae60547eff17",
+    "revision": "1f57393a6cc5aad79a608882e160a6b5",
     "url": "/coco-ssd-tfjs/index.html"
   }
 ];
