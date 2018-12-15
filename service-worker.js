@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/coco-ssd-tfjs/precache-manifest.aaf92c38b1977c2c6fa25d6449fdfc20.js"
+  "/coco-ssd-tfjs/precache-manifest.8a8c7d75da115666279652de162c5860.js"
 );
 
 workbox.clientsClaim();
