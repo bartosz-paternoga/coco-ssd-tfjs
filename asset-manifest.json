@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.b62bb66f.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.ef7dd437.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.ef7dd437.chunk.js.map",
-  "static/js/1.7eaaaead.chunk.js": "/react-gh-pages/static/js/1.7eaaaead.chunk.js",
-  "static/js/1.7eaaaead.chunk.js.map": "/react-gh-pages/static/js/1.7eaaaead.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b62bb66f.chunk.css.map": "/react-gh-pages/static/css/main.b62bb66f.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.7ba49b323cdf3049320a9b9349a7f96d.js": "/react-gh-pages/precache-manifest.7ba49b323cdf3049320a9b9349a7f96d.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/coco-ssd-tfjs/static/css/main.b62bb66f.chunk.css",
+  "main.js": "/coco-ssd-tfjs/static/js/main.fc9141de.chunk.js",
+  "main.js.map": "/coco-ssd-tfjs/static/js/main.fc9141de.chunk.js.map",
+  "static/js/1.7eaaaead.chunk.js": "/coco-ssd-tfjs/static/js/1.7eaaaead.chunk.js",
+  "static/js/1.7eaaaead.chunk.js.map": "/coco-ssd-tfjs/static/js/1.7eaaaead.chunk.js.map",
+  "runtime~main.js": "/coco-ssd-tfjs/static/js/runtime~main.3a5ad84b.js",
+  "runtime~main.js.map": "/coco-ssd-tfjs/static/js/runtime~main.3a5ad84b.js.map",
+  "static/media/logo.svg": "/coco-ssd-tfjs/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b62bb66f.chunk.css.map": "/coco-ssd-tfjs/static/css/main.b62bb66f.chunk.css.map",
+  "index.html": "/coco-ssd-tfjs/index.html",
+  "precache-manifest.d8d78e2244384211fbe0bedefb221b5a.js": "/coco-ssd-tfjs/precache-manifest.d8d78e2244384211fbe0bedefb221b5a.js",
+  "service-worker.js": "/coco-ssd-tfjs/service-worker.js"
 }
