@@ -1,14 +1,14 @@
 {
-  "main.css": "/coco-ssd-tfjs/static/css/main.a967b90d.chunk.css",
-  "main.js": "/coco-ssd-tfjs/static/js/main.d10dccca.chunk.js",
-  "main.js.map": "/coco-ssd-tfjs/static/js/main.d10dccca.chunk.js.map",
-  "static/js/1.7eaaaead.chunk.js": "/coco-ssd-tfjs/static/js/1.7eaaaead.chunk.js",
-  "static/js/1.7eaaaead.chunk.js.map": "/coco-ssd-tfjs/static/js/1.7eaaaead.chunk.js.map",
+  "main.css": "/coco-ssd-tfjs/static/css/main.bbdec40d.chunk.css",
+  "main.js": "/coco-ssd-tfjs/static/js/main.0919ec36.chunk.js",
+  "main.js.map": "/coco-ssd-tfjs/static/js/main.0919ec36.chunk.js.map",
+  "static/js/1.c9bd6f76.chunk.js": "/coco-ssd-tfjs/static/js/1.c9bd6f76.chunk.js",
+  "static/js/1.c9bd6f76.chunk.js.map": "/coco-ssd-tfjs/static/js/1.c9bd6f76.chunk.js.map",
   "runtime~main.js": "/coco-ssd-tfjs/static/js/runtime~main.3a5ad84b.js",
   "runtime~main.js.map": "/coco-ssd-tfjs/static/js/runtime~main.3a5ad84b.js.map",
   "static/media/logo.svg": "/coco-ssd-tfjs/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a967b90d.chunk.css.map": "/coco-ssd-tfjs/static/css/main.a967b90d.chunk.css.map",
+  "static/css/main.bbdec40d.chunk.css.map": "/coco-ssd-tfjs/static/css/main.bbdec40d.chunk.css.map",
   "index.html": "/coco-ssd-tfjs/index.html",
-  "precache-manifest.8a8c7d75da115666279652de162c5860.js": "/coco-ssd-tfjs/precache-manifest.8a8c7d75da115666279652de162c5860.js",
+  "precache-manifest.6d97135066ccc9af48accaf24f36f26c.js": "/coco-ssd-tfjs/precache-manifest.6d97135066ccc9af48accaf24f36f26c.js",
   "service-worker.js": "/coco-ssd-tfjs/service-worker.js"
 }
